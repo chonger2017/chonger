@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="2017627:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/2017627_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="2017627/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="2017627" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-4.3.9.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.9.RELEASE" />
+          <element id="file-copy" path="D:/MyBites/mybatis-3.4.2.jar" />
+          <element id="file-copy" path="D:/MyBites/mybatis-spring-1.3.1.jar" />
+          <element id="file-copy" path="D:/MyBites/mariadb-java-client-1.5.8.jar" />
+          <element id="file-copy" path="D:/MyBites/druid-1.0.31.jar" />
+          <element id="file-copy" path="D:/MyBites/jstl-1.2.jar" />
+          <element id="file-copy" path="D:/MyBites/standard-1.1.2.jar" />
+          <element id="file-copy" path="D:/MyBites/com.springsource.org.apache.commons.fileupload-1.2.0.jar" />
+          <element id="file-copy" path="D:/MyBites/com.springsource.org.apache.commons.io-1.4.0.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
